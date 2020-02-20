@@ -16,3 +16,8 @@ INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, c
 INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values ('Iracema Galvão',true,'Avenida Jaguaré','403','apto 53','Jaguaré','05346-000','São Paulo','SP');
 INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values ('Erci Queiroz',true,'Avenida Jaguaré','403','apto 53','Jaguaré','05346-000','São Paulo','SP');
 INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values ('Alexandre Galvão',true,'Avenida Jaguaré','383','apto 124','Jaguaré','05346-000','São Paulo','SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values ('Robson Julio Silva',true,'Avenida Jaguaré','383','apto 124','Jaguaré','05346-000','São Paulo','SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values ('July Souto de Lima',true,'Avenida Jaguaré','383','apto 124','Jaguaré','05346-000','São Paulo','SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values ('Cema Galvão',true,'Avenida Jaguaré','403','apto 53','Jaguaré','05346-000','São Paulo','SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values ('Nininho Queiroz',true,'Avenida Jaguaré','403','apto 53','Jaguaré','05346-000','São Paulo','SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values ('Alexandre do Val',true,'Avenida Jaguaré','383','apto 124','Jaguaré','05346-000','São Paulo','SP');
